@@ -48,9 +48,9 @@ Handled categorical variables using encoding
 Addressed class imbalance SMOTE
 
 ### Exploratory Data Analysis (EDA)
-Distribution of numerical and categorical variables
-Relationship between features and the target variable
-Age-based patterns and monthly admission trends
+- Distribution of numerical and categorical variables
+- Relationship between features and the target variable
+- Age-based patterns and monthly admission trends
 
 ### Machine Learning Approach
 This was treated as a binary classification problem.
